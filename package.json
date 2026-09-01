@@ -1,0 +1,12 @@
+{
+  "name": "chat-to-video",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Turn your conversations into stories — while keeping your conversations yours.",
+  "scripts": {
+    "dev": "echo 'scaffolded in Phase 1 — dev server wired up in Phase 2'",
+    "lint": "echo 'lint config added in Phase 2'",
+    "test": "echo 'test runner added in Phase 2'"
+  },
+  "license": "UNLICENSED"
+}
